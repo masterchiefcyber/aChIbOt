@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 server 1
---- https://anita-server-1.onrender.com/pair = "<a href='
+--- <a href="(🔗https://anita-server-1.onrender.com/pair)">Link</a> with<code>(pairing code)</code>
 
 
 
