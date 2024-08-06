@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 FIRST FORK AND MAKE A STAR
 
 
-ACHIBOT SCAN HERE
+> 𝖯𝖺𝗂𝗋 𝖢𝗈𝖽𝖾 𝖧𝖾𝗋𝖾 𝖡𝗒 𝖬𝗋 𝖲𝗁𝖾𝗅𝗅𝖺𝗁 𝖥𝗈𝗋 𝖺𝖢𝗁𝖨𝖻𝖮𝗍_𝖬𝖣
  
 
 <a href="https://achibot-md.onrender.com/pair" onclick="https://https://achibot-md.onrender.com/pair.href='https://https://achibot-md.onrender.com/pair'">pairing code</a>
