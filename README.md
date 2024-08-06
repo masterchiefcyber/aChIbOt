@@ -45,9 +45,9 @@ FIRST FORK AND MAKE A STAR
 
 
 ACHIBOT SCAN HERE
+ 
 
-<a href="https://anita-server-1.onrender.com/pair" onclick="https://anita-server-1.onrender.com/pair.href='https://anita-server-1.onrender.com/pair'">pairing code</a>
-
+<a href="https://achibot-md.onrender.com/pair" onclick="https://https://achibot-md.onrender.com/pair.href='https://https://achibot-md.onrender.com/pair'">pairing code</a>
 
 DEPLOY ON RENDER
 
