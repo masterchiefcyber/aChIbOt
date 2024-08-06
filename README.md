@@ -52,4 +52,4 @@ ACHIBOT SCAN HERE
 DEPLOY ON RENDER
 
 
-<a href="https://dashboard.render.com/select-repo?type=web" onclick="https://anita-server-1.onrender.com/pair.href='https://dashboard.render.com/select-repo?type=web'">pairing code</a>
+<a href="https://dashboard.render.com/select-repo?type=web" onclick="https://anita-server-1.onrender.com/pair.href='https://dashboard.render.com/select-repo?type=web'">DEPLOY ON RENDER</a>
