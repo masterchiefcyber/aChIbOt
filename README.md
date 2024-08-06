@@ -42,8 +42,11 @@ Mr ShElLaH/Mr ShElLaH is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-server 1
---- <a href="(🔗https://anita-server-1.onrender.com/pair)">Link</a> with<code>(pairing code)</code>
+
+
+<a href="#" onclick="window.location.href='https://anita-server-1.onrender.com/pair'">pairing code</a>
+
+ 
 
 
 
