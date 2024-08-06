@@ -46,17 +46,17 @@ You can click the Preview link to take a look at your changes.
 
 
 
-1. > Fₒᵣₖ ₜₕₑ ᵣₑₚₒ Fᵢᵣₛₜ ₐₙd ₚᵤₜ ₐ 🌟 ₛₜₐᵣ
+1. Fₒᵣₖ ₜₕₑ ᵣₑₚₒ Fᵢᵣₛₜ ₐₙd ₚᵤₜ ₐ 🌟 ₛₜₐᵣ
 
 
-2. > 𝖯𝖺𝗂𝗋 𝖢𝗈𝖽𝖾 𝖧𝖾𝗋𝖾 𝖡𝗒 𝖬𝗋 𝖲𝗁𝖾𝗅𝗅𝖺𝗁 𝖥𝗈𝗋 𝖺𝖢𝗁𝖨𝖻𝖮𝗍_𝖬𝖣 Π
+2.  𝖯𝖺𝗂𝗋 𝖢𝗈𝖽𝖾 𝖧𝖾𝗋𝖾 𝖡𝗒 𝖬𝗋 𝖲𝗁𝖾𝗅𝗅𝖺𝗁 𝖥𝗈𝗋 𝖺𝖢𝗁𝖨𝖻𝖮𝗍_𝖬𝖣 Π
  
 
      <a href="https://achibot-md.onrender.com/pair" onclick="https://https://achibot-md.onrender.com/pair.href='https://https://achibot-md.onrender.com/pair'">pairing code</a>
 
 
 
-3. > 𝖣𝖾𝗉𝗅𝗈𝗒 𝖴𝗌𝗂𝗇𝗀 𝖱𝖾𝗇𝖽𝖾𝗋 Π
+3. 𝖣𝖾𝗉𝗅𝗈𝗒 𝖴𝗌𝗂𝗇𝗀 𝖱𝖾𝗇𝖽𝖾𝗋 Π
 
 
 <a href="https://dashboard.render.com/select-repo?type=web" onclick="https://anita-server-1.onrender.com/pair.href='https://dashboard.render.com/select-repo?type=web'">DEPLOY ON RENDER</a>
