@@ -20,8 +20,7 @@
 </br>
 <center>𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙈𝙚</center>
 
-<table align="center" style="border:1px solid black;margin-left:auto;margin-right:auto;">
-  <tr>
+<
     <th><img src="https://github.com/masterchiefcyber/Imagick-/blob/main/Photo_.jpg" width="100%" height="100%"></th>
   </tr>
   <tr>
@@ -38,13 +37,22 @@
 Mr ShElLaH/Mr ShElLaH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-FIRST FORK AND MAKE A STAR
+
+
+
+
+
+
+
+
+
+1. > Fₒᵣₖ ₜₕₑ ᵣₑₚₒ Fᵢᵣₛₜ ₐₙd ₚᵤₜ ₐ 🌟 ₛₜₐᵣ
 
 
 2. > 𝖯𝖺𝗂𝗋 𝖢𝗈𝖽𝖾 𝖧𝖾𝗋𝖾 𝖡𝗒 𝖬𝗋 𝖲𝗁𝖾𝗅𝗅𝖺𝗁 𝖥𝗈𝗋 𝖺𝖢𝗁𝖨𝖻𝖮𝗍_𝖬𝖣 Π
  
 
-<a href="https://achibot-md.onrender.com/pair" onclick="https://https://achibot-md.onrender.com/pair.href='https://https://achibot-md.onrender.com/pair'">pairing code</a>
+     <a href="https://achibot-md.onrender.com/pair" onclick="https://https://achibot-md.onrender.com/pair.href='https://https://achibot-md.onrender.com/pair'">pairing code</a>
 
 
 
