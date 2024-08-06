@@ -41,14 +41,15 @@
 Mr ShElLaH/Mr ShElLaH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+FIRST FORK AND MAKE A STAR
 
 
-
-
+ACHIBOT SCAN HERE
 
 <a href="https://anita-server-1.onrender.com/pair" onclick="https://anita-server-1.onrender.com/pair.href='https://anita-server-1.onrender.com/pair'">pairing code</a>
 
 
+DEPLOY ON RENDER
 
 
-<a href="(🔗https://dashboard.render.com/select-repo?type=web)">Link</a> with<code>(render)</code>
+<a href="https://dashboard.render.com/select-repo?type=web" onclick="https://anita-server-1.onrender.com/pair.href='https://dashboard.render.com/select-repo?type=web'">pairing code</a>
