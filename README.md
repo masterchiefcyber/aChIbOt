@@ -25,7 +25,10 @@
 Mr ShElLaH/Mr ShElLaH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --
-┏━━━━━━━━━━━━━━
+
+
+
+> ━━━━━━━━━━━━━
 ┃aChIbOt_MD SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
@@ -40,7 +43,7 @@ Wanna talk to me?👉 https://t.me/shellah👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-2099 Mr Shellah *
 
-_Don't Forget To Give Star To My Repo_
+> _Don't Forget To Give Star To My Repo_`
 
 
 
