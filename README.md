@@ -32,10 +32,7 @@
   </tr>
 </table>
 
-<p align="center"><a href="https://github.com/Masterchief"><img src="https://user-images.githubusercontent.com/64035221/96459220-834c7e00-123f-11eb-8417-534058a7ba62.png" alt="GitHub" width="80" height="80">
-<a href="https://www.youtube.com/@mrfr4nk"><img src="https://user-images.githubusercontent.com/64035221/96456596-4f238e00-123c-11eb-821e-85e9aaa3faec.png" alt="YouTube" width="80" height="80">
-<a href="https://t.me/the_cyber_punkk"><img src="https://user-images.githubusercontent.com/64035221/113977119-b91e0700-985f-11eb-9418-eab91ff1540e.png" alt="Telegram" width="80" height="">
-<a href="https://www.instagram.com/mrfrankofc/"><img src="https://user-images.githubusercontent.com/64035221/113977904-e61ee980-9860-11eb-82d1-9ebd795c8138.png" alt="Instagram" width="80" height="">
+<p align="center"><a href="https://github.com/Masterchief"><img src="https://user-images.
 
 <!---
 Mr ShElLaH/Mr ShElLaH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
