@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<a href="#" onclick="https://anita-server-1.onrender.com/pair.href='https://anita-server-1.onrender.com/pair'">pairing code</a>
+<a href="<a href="#" onclick="https://anita-server-1.onrender.com/pair.href='https://anita-server-1.onrender.com/pair'">pairing code</a>" onclick="https://anita-server-1.onrender.com/pair.href='https://anita-server-1.onrender.com/pair'">pairing code</a>
 
 
 
