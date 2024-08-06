@@ -20,7 +20,7 @@
 </br>
 <center>𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙈𝙚</center>
 
-
+>
     <th><img src="https://github.com/masterchiefcyber/Imagick-/blob/main/Photo_.jpg" width="100%" height="100%"></th>
   </tr>
   <tr>
